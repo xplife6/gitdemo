@@ -19,4 +19,4 @@ master   get in trrable
 jkljkljkljlkjklkj
 22222222222222222
 sshget
-
+ssh push
